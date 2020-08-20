@@ -6,6 +6,6 @@ The first one: WLR.py (White Light Reflectivity) allows to control a Standa  sta
 
 The second one: ARPL.py (Angle Resolved PhotoLuminescence) enables photoluminescence measurements at different angles relying on an NKT Supercontinuum laser automatded in python.
 
-The third one: MainOneO.py is a program designed to perform scanning and mapping of samples in microphotoluminescence using a nanopositioning stage by piezoconcept.
+The third one: OneO.py is a program designed to perform scanning and mapping of samples in microphotoluminescence using a nanopositioning stage by piezoconcept.
 
 Finally, Extreme.py is a standalone version with a GUI for the use of Supercontinuum NKT laser and its blue/UV extension.
